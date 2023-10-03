@@ -89,5 +89,5 @@ Data Science Pipelines::
 Users can automate the workflow of data gathering, model training, evaluation, and release instead of performing these tasks manually
 
 Model monitoring::
-You can monitor the performance of AI models in production with Grafana dashboards.
+You can monitor the performance of AI models in production with Prometheus and Grafana dashboards.
 
