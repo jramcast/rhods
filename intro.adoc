@@ -17,8 +17,9 @@ Machine learning techniques enable training computers to learn from data to prod
 
 AI/Machine learning can be divided into several subfields:
 
-.Image from article: _Unbox the black-box for the medical explainable AI via multi-modal and multi-centre data fusion: A mini-review, two showcases and beyond_
-image::https://www.researchgate.net/publication/353621660/figure/fig1/AS:1108926137401347@1641400002361/Model-explainability-vs-model-performance-for-widely-used-machine-learning-and-deep_W640.jpg[]
+.Image from article: https://www.researchgate.net/publication/353621660_Unbox_the_black-box_for_the_medical_explainable_AI_via_multi-modal_and_multi-centre_data_fusion_A_mini-review_two_showcases_and_beyond[_Unbox the black-box for the medical explainable AI via multi-modal and multi-centre data fusion: A mini-review, two showcases and beyond_]
+image::assets/techniques.png[]
+
 
 === Deep Learning
 
