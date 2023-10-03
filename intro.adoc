@@ -66,7 +66,7 @@ Many AI models do not go beyond the training stages because the teams that train
 
 Additionally, many AI practioners struggle with the myriad tools, libraries and versions to maintain during the development and maintenance of AI-based applications, not to mention the significant effort required to configure GPU support and drivers.
 
-*RHODS bridges the math/data science - engineering gap.*
+*RHODS bridges the math/data science - engineering gap and operationalizes AI projects.*
 
 RHODS augments OpenShift with the common tools used in the AI ecosystem, including:
 
