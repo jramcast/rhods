@@ -34,7 +34,7 @@ Deep learning-based solutions have proven to be impresively effective with:
 ==== Downsides of Deep Learning
 
 * Poor explainability.
-These methods are based on neural networks, which are considered black box models.
+These methods are based on neural networks, which are considered black-box models.
 
 * Data hungry and computationally expensive.
 Deep learning methods require lots of memory, and matrix-based heavy computations (via GPUs usually).
@@ -43,10 +43,16 @@ Deep learning methods require lots of memory, and matrix-based heavy computation
 
 Other foundational, classic tecniques are still relevant in use on many production systems, for well-known use cases, such as:
 
-* Spam detection
-* Numerical estimations and forecasts (e.g. churn rate prediction).
-* Anomaly detection
-* Classification problems
+* Classification problems, such as:
+    - Spam detection: _spam or not spam?
+    - Sentiment analysis: _text is positive, negative or neutral_
+    - Classification of articles into topics: _politics, world, travel, sports..._
+* Regresssion problems: i.e. numerical estimations and forecasts, such as:
+    - Churn rate prediction
+    - House price estimation
+* Anomaly detection, such as:
+    - Credit card fraud detection
+    - Unusual traffic patterns in a website
 
 Some of these methods are linear and logistic regression, probabilistic learning (e.g Bayesian methods), decision trees, and support vector machines.
 
