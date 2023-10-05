@@ -1,3 +1,4 @@
+:experimental:
 = Introduction Demo
 
 
@@ -58,8 +59,6 @@ image::./assets/created-workbench.png[width=90%,align="center"]
 
 
 3. *Open the workbench and clone the demo code.*
-+
-Use the demo code to train and deploy the model.
 
 a. Make sure that the `intro` workbench is running and click btn:[Open].
 
