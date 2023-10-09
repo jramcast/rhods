@@ -88,6 +88,8 @@ d. Execute and review the rest of the cells.
 Keep pressing btn:[Shift+Enter] until you reach the bottom.
 
 
+3. *Run the intro-text-generation notebook*
 
+a. Open the `intro-demo/notebook.ipynb` notebook in Jupyter and execute the steps.
 
 
