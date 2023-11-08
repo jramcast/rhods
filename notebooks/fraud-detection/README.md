@@ -5,6 +5,8 @@ In this exercise, you will create a data science project for fraud detection.
 The lab provides notebooks that implement the project workflow.
 You might need to add code to those notebooks.
 
+Previoulsy, we covered running pipelines for offline scoring.
+
 ## Prerrequisites
 
 The lab scenario assumes that the dataset is available in an S3 bucket.
@@ -42,11 +44,13 @@ After training, export the model to ONNX format.
 7. Upload the model to S3.
 You can create a notebook to upload the model.
 
-8. Create a model server.
+8. Create a data science pipeline that collects, preprocesses, trains and uploads the model.
+
+9. Create a model server.
 Expose the model via an external route.
 The model framework should be `onnx` version 1.
 
-9. Create a data science pipeline that collects, preprocesses, trains and uploads the model.
+10. Test that you can consume the model.
 
 
 You can find the solutions in the `notebooks/fraud-detection/solutions` directory.
