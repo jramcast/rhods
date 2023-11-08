@@ -26,6 +26,7 @@ Alternatively, you can download the dataset from Kaggle (https://www.kaggle.com/
 
 * Perform your exercise in a Tensorflow workbench.
 Make sure that the workbench includes a data connection.
+Make sure that the workbench size is at least `Medium`.
 
 * Clone the https://github.com/jramcast/rhods repository into your workbench.
 The materials for this lab are located in the `notebooks/fraud-detection` directory.
