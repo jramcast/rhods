@@ -1,0 +1,5 @@
+FROM quay.io/modh/odh-generic-data-science-notebook:v2-2023a-20231110-00d1d30
+
+COPY requirements.txt .
+
+RUN pip install -r requirements.txt
